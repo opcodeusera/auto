@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        
+// @name        test bms
 // @namespace   Scripts
 // @match       *://*
 // @grant       none
